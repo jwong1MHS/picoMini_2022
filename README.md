@@ -1,3 +1,13 @@
+# Beginner PicoMini 2022
+
+A beginner-style CTF hosted on picoGym at https://play.picoctf.org/practice?originalEvent=69
+
+## Table of Contents
+
+| Categories     | Completed | Progress                                                     | Points    |
+| -------------- | --------- | ------------------------------------------------------------ | --------- |
+| General Skills | 13/13     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) | 1300/1300 |
+
 ## Codebooks
 
 ### *Description*
